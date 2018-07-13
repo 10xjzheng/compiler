@@ -1,0 +1,12 @@
+{
+  "name": "10xjzheng/Compiler",
+  "description": "a super tiny compiler of PHP",
+  "require": {
+    "php": ">=5.6"
+  },
+  "autoload": {
+    "psr-4": {
+      "Compiler\\": ""
+    }
+  }
+}
